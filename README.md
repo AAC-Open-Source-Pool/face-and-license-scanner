@@ -16,11 +16,11 @@
 # Requirements
 |||
 |--|--|
-|[cv2](https://pypi.org/project/opencv-python/)|<img src="https://i.imgur.com/HZ47qGk.png" style="width:135px; height:20px;" alt="opencv">|
-|[os](https://docs.python.org/3/library/os.html)|<img src="https://i.imgur.com/pUdXm5G.png" style="width:135px; height:20px;" alt="os">|
-|[dlib](https://pypi.org/project/dlib/)|<img src="https://i.imgur.com/J2ER8PD.png" style="width:135px; height:20px;" alt="dlib">|
-|[winsound](https://docs.python.org/3/library/winsound.html)|<img src="https://i.imgur.com/0JFzcLy.png" style="width:135px; height:20px;" alt="python3.11.x">|
-|[numpy](https://numpy.org)|<img src="https://i.imgur.com/vM19fZj.png" style="width:135px; height:20px;" alt="python3.11.x">|
+|[cv2](https://pypi.org/project/opencv-python/)|<img src="https://i.imgur.com/HZ47qGk.png" style="width:120px; height:20px;" alt="opencv">|
+|[os](https://docs.python.org/3/library/os.html)|<img src="https://i.imgur.com/pUdXm5G.png" style="width🕧0px; height:20px;" alt="os">|
+|[dlib](https://pypi.org/project/dlib/)|<img src="https://i.imgur.com/J2ER8PD.png" style="width:120px; height:20px;" alt="dlib">|
+|[winsound](https://docs.python.org/3/library/winsound.html)|<img src="https://i.imgur.com/0JFzcLy.png" style="width:110px; height:20px;" alt="python3.11.x">|
+|[numpy](https://numpy.org)|<img src="https://i.imgur.com/vM19fZj.png" style="width:120px; height:20px;" alt="python3.11.x">|
 
 # How to use
 1. Clone this repo. <br>
