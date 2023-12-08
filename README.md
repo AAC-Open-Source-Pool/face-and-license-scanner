@@ -1,5 +1,5 @@
 <h1 align="centre">
-   <img src="image link for your project">
+   <img src="https://imgur.com/8MzaiI5.png">
 </h1>
 
 # Table of Contents
